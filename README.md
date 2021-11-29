@@ -1,4 +1,4 @@
-# -college-assignments-2021-22
+# college-assignments-2021-22
 
 small projects coded in different languages at college (includes OOP projects)
 
